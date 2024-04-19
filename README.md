@@ -1,1 +1,1 @@
-# Python for Data Science Practice Projects
+# Python for Data Science (Practice Projects)
